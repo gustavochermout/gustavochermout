@@ -3,7 +3,7 @@
 ###
 
 <p align="left">🔥 Full Stack Developer at @forebrainneuro</p>
-<p align="left">🚀 Creator at @reactjs.br</p>
+<p align="left">🚀 Creator at community @reactjs.br</p>
 <p align="left">⚡ Passionate about the React ecosystem</p>
 
 ###
